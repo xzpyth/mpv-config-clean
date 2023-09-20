@@ -9,5 +9,5 @@ This config uses **gpu-api vulkan** and **vo=gpu-next** for HDR support.
 - <kbd>c</kbd> = 20LUFS audio normalisation (Average Anime Loudness) Set to 23 for EU and 24 for US/Netflix
 - <kbd>C</kbd> = auto crop video
 - <kbd>H</kbd> = switch between HDR modes (pictures too)
-- <kbd>y</kbd> = switch system time
+- <kbd>y</kbd> = show system time
 - <kbd>a</kbd> / <kbd>v</kbd> / <kbd>s</kbd> = switch between audio / video / subtitle tracks
